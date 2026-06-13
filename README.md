@@ -9,7 +9,7 @@ This workspace contains a single Jupyter notebook for exploring a K-Nearest Neig
 ## Usage
 
 1. Open the folder in VS Code or Jupyter Notebook.
-2. Launch the notebook: `08_Lab.ipynb`.
+2. Launch the notebook: `KNN-Means.ipynb`.
 3. Run cells sequentially to reproduce the analysis.
 
 ## Notes
