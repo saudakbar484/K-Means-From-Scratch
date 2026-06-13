@@ -4,7 +4,7 @@ This workspace contains a single Jupyter notebook for exploring a K-Nearest Neig
 
 ## Files
 
-- `08_Lab.ipynb` – the main notebook with analysis, code, and results.
+- `KNN-Means.ipynb` – the main notebook with analysis, code, and results.
 
 ## Usage
 
